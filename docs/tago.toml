@@ -1,0 +1,10 @@
+title       = "opennotify"
+baseURL     = "https://opennotify-cli.tamnd.com/"
+description = "A command line for opennotify."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/opennotify-cli"
